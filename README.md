@@ -1,2 +1,2 @@
-# 4_kernel_2kernel
+# 4_kernel_2kernel_compute_plus_draw
 计算kernel的例子
